@@ -1,0 +1,7 @@
+
+REGRAS:
+* Nao criar funcao em main
+
+OBS:
+
+Banco
