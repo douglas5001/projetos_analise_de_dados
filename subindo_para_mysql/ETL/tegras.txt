@@ -5,3 +5,8 @@ REGRAS:
 OBS:
 
 Banco
+host: ip
+database: python_sql
+port: 3306
+user: root
+password: senha
